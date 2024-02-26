@@ -1,0 +1,2265 @@
+Known pipe types:
+  wglGraphicsPipe
+(all display modules loaded.)
+Assertion failed: !is_empty() at line 2872 of panda/src/pgraph/nodePath.cxx
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:thread(error): Exception occurred within PythonThread Thread-1
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:thread(error): Exception occurred within PythonThread Thread-1
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:thread(error): Exception occurred within PythonThread Thread-1
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:thread(error): Exception occurred within PythonThread Thread-1
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:thread(error): Exception occurred within PythonThread Thread-1
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+:thread(error): Exception occurred within PythonThread Thread-1
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: !is_empty() at line 2939 of panda/src/pgraph/nodePath.cxx
+:thread(error): Exception occurred within PythonThread Thread-1
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:display:x11display(fatal): X fatal error on display 0x2f3df20
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:thread(error): Exception occurred within PythonThread Thread-1
+:display:x11display(fatal): X fatal error on display 0x3015b50
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:thread(error): Exception occurred within PythonThread Thread-1
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: _has_mouse at line 39 of built1.11/include/mouseWatcher.I
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Assertion failed: _has_mouse at line 39 of built1.11/include/mouseWatcher.I
+Assertion failed: _has_mouse at line 39 of built1.11/include/mouseWatcher.I
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 1: Not suitable for vcache optimization
+:assimp(warning): Mesh 8: Not suitable for vcache optimization
+:assimp(warning): Mesh 11: Not suitable for vcache optimization
+:assimp(warning): Collada: No material specified for subgroup <> in geometry <Sphere_005-mesh>.
+:assimp(warning): Mesh 0: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 5: Not suitable for vcache optimization
+:assimp(warning): Mesh 2: Not suitable for vcache optimization
+:assimp(warning): Mesh 3: Not suitable for vcache optimization
